@@ -6,7 +6,7 @@ const Footer = () => {
             <footer className="footer-container">
                 <div className="footer-content">
                     <p>&copy; {new Date().getFullYear()} GitHub Explorer. All rights reserved.</p>
-                    <p>Developed by Shrikant Kushwah</p>
+                    <p>Developed by Sanjay kumar shukla</p>
                 </div>
             </footer>
         </div>
